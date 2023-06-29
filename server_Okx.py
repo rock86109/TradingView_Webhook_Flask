@@ -7,9 +7,9 @@ import ccxt
 app = Flask(__name__)
 
 # OKX API pair
-api_key = '81e8935c-2907-436d-a1ce-2388a21f5344'
-api_secret = 'A26D70DD22DE1B777CEB5257A325DF30'
-okx_password = 'Zxc8610922!!'
+api_key = ''
+api_secret = ''
+okx_password = ''
 
 passwordList = ["monadanny", "mayigetyournumber?"]
 # client = Client(api_key, api_secret)
